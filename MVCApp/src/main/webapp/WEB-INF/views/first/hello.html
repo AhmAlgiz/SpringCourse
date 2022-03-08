@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <title>hello</title>
 </head>
 <body>
 hi
-<a href="/first/goodbye">say bye</a>
+<a href="/MVCApp/first/goodbye">say bye</a> or <a href="/MVCApp/second/exit">Exit</a>
+
+<p th:text = "${msg}"></p>
 </body>
 </html>

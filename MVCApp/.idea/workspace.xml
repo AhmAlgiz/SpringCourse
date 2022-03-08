@@ -31,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
   </component>
   <component name="RunManager" selected="Smart Tomcat.tomcat9">
@@ -39,9 +39,7 @@
       <option name="adminPort" value="8005" />
       <option name="contextPath" value="/MVCApp" />
       <option name="docBase" value="E:\Альгиз\git\Spring\SpringCourse\MVCApp\src\main\webapp" />
-      <option name="envOptions">
-        <map />
-      </option>
+      <option name="envOptions" />
       <option name="passParentEnvironmentVariables" value="true" />
       <option name="port" value="8080" />
       <option name="tomcatInfo">
@@ -59,7 +57,7 @@
     </configuration>
     <configuration name="tomcat9" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
       <option name="adminPort" value="8005" />
-      <option name="contextPath" value="" />
+      <option name="contextPath" value="/MVCApp" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
       <option name="envOptions">
         <map />
@@ -68,10 +66,10 @@
       <option name="port" value="8080" />
       <option name="tomcatInfo">
         <TomcatInfo>
-          <option name="name" value="Apache Tomcat/9.0.58" />
+          <option name="name" value="Apache Tomcat/9.0.59" />
           <option name="number" value="0" />
-          <option name="path" value="E:\Альгиз\git\tomcat\apache-tomcat-9.0.58" />
-          <option name="version" value="9.0.58.0" />
+          <option name="path" value="E:\Альгиз\programing\apache-tomcat-9.0.59" />
+          <option name="version" value="9.0.59.0" />
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="" />
